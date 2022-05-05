@@ -6,6 +6,11 @@ body{
     background-color: deepskyblue;
 }
 
+#images {
+    position: absolute;
+    margin-left: 650px;
+}
+
 /*============================ FIRST ROW =======================*/
 
 #grid1-1{
